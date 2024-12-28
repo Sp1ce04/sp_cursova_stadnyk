@@ -1,0 +1,132 @@
+|-- program
+|    |-- var
+|    |    |-- _ZZZZZZZZZZZZZZZ
+|    |    |-- var
+|    |    |    |-- _CCCCCCCCCCCCCCC
+|    |    |    |-- var
+|    |    |    |    |-- _XXXXXXXXXXXXXXX
+|    |    |    |    |-- var
+|    |    |    |    |    |-- _BBBBBBBBBBBBBBB
+|    |    |    |    |    |-- var
+|    |    |    |    |    |    |-- _DDDDDDDDDDDDDDD
+|    |    |    |    |    |    |-- var
+|    |    |    |    |    |    |    |-- _AAAAAAAAAAAAAAA
+|    |-- statement
+|    |    |-- statement
+|    |    |    |-- statement
+|    |    |    |    |-- statement
+|    |    |    |    |    |-- statement
+|    |    |    |    |    |    |-- statement
+|    |    |    |    |    |    |    |-- statement
+|    |    |    |    |    |    |    |    |-- statement
+|    |    |    |    |    |    |    |    |    |-- statement
+|    |    |    |    |    |    |    |    |    |    |-- statement
+|    |    |    |    |    |    |    |    |    |    |    |-- statement
+|    |    |    |    |    |    |    |    |    |    |    |    |-- input
+|    |    |    |    |    |    |    |    |    |    |    |    |    |-- _AAAAAAAAAAAAAAA
+|    |    |    |    |    |    |    |    |    |    |    |    |-- input
+|    |    |    |    |    |    |    |    |    |    |    |    |    |-- _BBBBBBBBBBBBBBB
+|    |    |    |    |    |    |    |    |    |    |    |-- for-to
+|    |    |    |    |    |    |    |    |    |    |    |    |-- <==
+|    |    |    |    |    |    |    |    |    |    |    |    |    |-- _DDDDDDDDDDDDDDD
+|    |    |    |    |    |    |    |    |    |    |    |    |    |-- _AAAAAAAAAAAAAAA
+|    |    |    |    |    |    |    |    |    |    |    |    |-- body
+|    |    |    |    |    |    |    |    |    |    |    |    |    |-- _BBBBBBBBBBBBBBB
+|    |    |    |    |    |    |    |    |    |    |    |    |    |-- output
+|    |    |    |    |    |    |    |    |    |    |    |    |    |    |-- *
+|    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |-- _DDDDDDDDDDDDDDD
+|    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |-- _DDDDDDDDDDDDDDD
+|    |    |    |    |    |    |    |    |    |    |-- for-to
+|    |    |    |    |    |    |    |    |    |    |    |-- <==
+|    |    |    |    |    |    |    |    |    |    |    |    |-- _DDDDDDDDDDDDDDD
+|    |    |    |    |    |    |    |    |    |    |    |    |-- _BBBBBBBBBBBBBBB
+|    |    |    |    |    |    |    |    |    |    |    |-- body
+|    |    |    |    |    |    |    |    |    |    |    |    |-- _AAAAAAAAAAAAAAA
+|    |    |    |    |    |    |    |    |    |    |    |    |-- output
+|    |    |    |    |    |    |    |    |    |    |    |    |    |-- *
+|    |    |    |    |    |    |    |    |    |    |    |    |    |    |-- _DDDDDDDDDDDDDDD
+|    |    |    |    |    |    |    |    |    |    |    |    |    |    |-- _DDDDDDDDDDDDDDD
+|    |    |    |    |    |    |    |    |    |-- <==
+|    |    |    |    |    |    |    |    |    |    |-- _XXXXXXXXXXXXXXX
+|    |    |    |    |    |    |    |    |    |    |-- 0
+|    |    |    |    |    |    |    |    |-- <==
+|    |    |    |    |    |    |    |    |    |-- _CCCCCCCCCCCCCCC
+|    |    |    |    |    |    |    |    |    |-- 0
+|    |    |    |    |    |    |    |-- while
+|    |    |    |    |    |    |    |    |-- Le
+|    |    |    |    |    |    |    |    |    |-- _CCCCCCCCCCCCCCC
+|    |    |    |    |    |    |    |    |    |-- _AAAAAAAAAAAAAAA
+|    |    |    |    |    |    |    |    |-- statement
+|    |    |    |    |    |    |    |    |    |-- compound
+|    |    |    |    |    |    |    |    |    |    |-- statement
+|    |    |    |    |    |    |    |    |    |    |    |-- statement
+|    |    |    |    |    |    |    |    |    |    |    |    |-- <==
+|    |    |    |    |    |    |    |    |    |    |    |    |    |-- _ZZZZZZZZZZZZZZZ
+|    |    |    |    |    |    |    |    |    |    |    |    |    |-- 0
+|    |    |    |    |    |    |    |    |    |    |    |    |-- while
+|    |    |    |    |    |    |    |    |    |    |    |    |    |-- Le
+|    |    |    |    |    |    |    |    |    |    |    |    |    |    |-- _ZZZZZZZZZZZZZZZ
+|    |    |    |    |    |    |    |    |    |    |    |    |    |    |-- _BBBBBBBBBBBBBBB
+|    |    |    |    |    |    |    |    |    |    |    |    |    |-- statement
+|    |    |    |    |    |    |    |    |    |    |    |    |    |    |-- compound
+|    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |-- statement
+|    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |-- <==
+|    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |-- _XXXXXXXXXXXXXXX
+|    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |-- +
+|    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |-- _XXXXXXXXXXXXXXX
+|    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |-- 1
+|    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |-- <==
+|    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |-- _ZZZZZZZZZZZZZZZ
+|    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |-- +
+|    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |-- _ZZZZZZZZZZZZZZZ
+|    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |    |-- 1
+|    |    |    |    |    |    |    |    |    |    |    |-- <==
+|    |    |    |    |    |    |    |    |    |    |    |    |-- _CCCCCCCCCCCCCCC
+|    |    |    |    |    |    |    |    |    |    |    |    |-- +
+|    |    |    |    |    |    |    |    |    |    |    |    |    |-- _CCCCCCCCCCCCCCC
+|    |    |    |    |    |    |    |    |    |    |    |    |    |-- 1
+|    |    |    |    |    |    |-- output
+|    |    |    |    |    |    |    |-- _XXXXXXXXXXXXXXX
+|    |    |    |    |    |-- <==
+|    |    |    |    |    |    |-- _XXXXXXXXXXXXXXX
+|    |    |    |    |    |    |-- 0
+|    |    |    |    |-- <==
+|    |    |    |    |    |-- _CCCCCCCCCCCCCCC
+|    |    |    |    |    |-- 1
+|    |    |    |-- repeat-until
+|    |    |    |    |-- body
+|    |    |    |    |    |-- compound
+|    |    |    |    |    |    |-- statement
+|    |    |    |    |    |    |    |-- statement
+|    |    |    |    |    |    |    |    |-- <==
+|    |    |    |    |    |    |    |    |    |-- _ZZZZZZZZZZZZZZZ
+|    |    |    |    |    |    |    |    |    |-- 1
+|    |    |    |    |    |    |    |    |-- repeat-until
+|    |    |    |    |    |    |    |    |    |-- body
+|    |    |    |    |    |    |    |    |    |    |-- compound
+|    |    |    |    |    |    |    |    |    |    |    |-- statement
+|    |    |    |    |    |    |    |    |    |    |    |    |-- <==
+|    |    |    |    |    |    |    |    |    |    |    |    |    |-- _XXXXXXXXXXXXXXX
+|    |    |    |    |    |    |    |    |    |    |    |    |    |-- +
+|    |    |    |    |    |    |    |    |    |    |    |    |    |    |-- _XXXXXXXXXXXXXXX
+|    |    |    |    |    |    |    |    |    |    |    |    |    |    |-- 1
+|    |    |    |    |    |    |    |    |    |    |    |    |-- <==
+|    |    |    |    |    |    |    |    |    |    |    |    |    |-- _ZZZZZZZZZZZZZZZ
+|    |    |    |    |    |    |    |    |    |    |    |    |    |-- +
+|    |    |    |    |    |    |    |    |    |    |    |    |    |    |-- _ZZZZZZZZZZZZZZZ
+|    |    |    |    |    |    |    |    |    |    |    |    |    |    |-- 1
+|    |    |    |    |    |    |    |    |    |-- !
+|    |    |    |    |    |    |    |    |    |    |-- Ge
+|    |    |    |    |    |    |    |    |    |    |    |-- _ZZZZZZZZZZZZZZZ
+|    |    |    |    |    |    |    |    |    |    |    |-- _BBBBBBBBBBBBBBB
+|    |    |    |    |    |    |    |-- <==
+|    |    |    |    |    |    |    |    |-- _CCCCCCCCCCCCCCC
+|    |    |    |    |    |    |    |    |-- +
+|    |    |    |    |    |    |    |    |    |-- _CCCCCCCCCCCCCCC
+|    |    |    |    |    |    |    |    |    |-- 1
+|    |    |    |    |-- !
+|    |    |    |    |    |-- Ge
+|    |    |    |    |    |    |-- _CCCCCCCCCCCCCCC
+|    |    |    |    |    |    |-- _AAAAAAAAAAAAAAA
+|    |    |-- output
+|    |    |    |-- _XXXXXXXXXXXXXXX
